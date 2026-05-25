@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Pari%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 <h1 align="center">Hi 👋, I'm Pari Jain</h1>
 
 <h3 align="center">
