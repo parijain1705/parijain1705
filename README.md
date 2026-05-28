@@ -67,18 +67,6 @@ Voice-enabled and automation-focused AI assistant experiments with contextual in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parijain1705&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parijain1705&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -91,12 +79,3 @@ Voice-enabled and automation-focused AI assistant experiments with contextual in
 </a>
 </p>
 
----
-
-## ⚡ Fun Fact
-
-```python
-while(True):
-    learn()
-    build()
-    improve()
