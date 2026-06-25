@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-🎓 2nd Year IT Student <br>
+🎓 3rd Year IT Student <br>
 💻 Passionate about AI, Computer Vision, Backend Systems & Open Source
 </p>
 
