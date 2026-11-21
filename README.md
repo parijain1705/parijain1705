@@ -134,11 +134,9 @@ Contributing through **GSSoC** and collaborating on community projects, like [Bu
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parijain1705&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  🦈 <b>Pull Shark</b> &nbsp;•&nbsp; 🎲 <b>YOLO</b> &nbsp;•&nbsp; 🌍 <b>GSSoC Contributor</b>
+  <img src="https://img.shields.io/badge/Pull%20Shark-🦈-0A66C2?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/YOLO-🎲-FF6600?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/GSSoC-Contributor-FF0080?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 ---
@@ -146,7 +144,11 @@ Contributing through **GSSoC** and collaborating on community projects, like [Bu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parijain1705/parijain1705/output/github-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parijain1705/parijain1705/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parijain1705/parijain1705/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/parijain1705/parijain1705/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
